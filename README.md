@@ -1,7 +1,5 @@
 <div align="center">
 
-# Olá! Eu sou Felipe Almeida 👋
-
 ### Analista de Sistemas Júnior | Estudante de Ciência da Computação | Desenvolvedor Back-End
 
 [![GitHub](https://img.shields.io/badge/GitHub-wnoardb-181717?style=for-the-badge&logo=github)](https://github.com/wnoardb)
